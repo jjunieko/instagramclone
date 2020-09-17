@@ -13,4 +13,5 @@ Instagram interface clone made with React Native ❤️
 
 ## Preview
 
+<a href="https://github.com/rocketseat-content/youtube-ui-clone-instagram-feed/raw/master/preview.gif" ></a>
 ![Preview](preview.gif)
